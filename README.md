@@ -1,6 +1,5 @@
 # Comparing Different Learning Algorithms for Movie Recommendations
-University of California, Berkeley.
-CS289 Graduate Project - Fall 2017
+
 
 
 
